@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imChinoook
-- 👀 I’m interested in your mum
+- 👀 I’m interested in video editing and development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on your nan
-- 📫 How to reach me discord
+- 💞️ I’m looking to collaborate on video projects and software development
+- 📫 How to reach me: @Chxnook on discord
 
 <!---
 imChinoook/imChinoook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
